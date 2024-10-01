@@ -1,0 +1,93 @@
+[
+    {
+        "subsection-name": "Every Morning",
+        "content": "\uf0b7  Open POET. \uf0b7  Click the Communications tab. \uf0b7  Click Call Host .       \uf0b7  The Ai2 Connection Manager will open, download and process updates, and close when completed.  ",
+        "bbox": [
+            0,
+            0,
+            526.9618530273438,
+            213.344970703125
+        ],
+        "page_num": [
+            1
+        ],
+        "images": [
+            "output_images/subsection_1_image1.png"
+        ]
+    },
+    {
+        "subsection-name": "Setting an Active Customer",
+        "content": "\uf0b7  Click the Work With tab. \uf0b7  Click Orders .         \uf0b7  To set a Customer as Active, do one of the following: o  Option A: In \u2018Enter Customer Search\u2019, type the name/number of a Customer and press Enter to search. Then, either press Enter OR double-left-click the line. o  Option B: Use your mouse to navigate and double-left-click the line of the Customer. \uf0b7  If done correctly, the Customer will display in the title bar of POET as: \u201c [###### CUSTOMERNAME] - (F)edway (A)utomated (S)ales (T)ransactions \u201d.     ",
+        "bbox": [
+            12.239997863769531,
+            213.52850341796875,
+            Infinity,
+            Infinity
+        ],
+        "page_num": [
+            1
+        ],
+        "images": [
+            "output_images/subsection_2_image1.png",
+            "output_images/subsection_2_image2.png"
+        ]
+    },
+    {
+        "subsection-name": "Entering an Order",
+        "content": "\uf0b7  After a Customer is set Active, the Work With -> Orders  section will already be open. (If not, click the Work With tab, and then click Orders .)    \uf0b7  Click New Order to open a blank Order Pad, New Order from History to open an Order Pad with the Customer\u2019s history, or New Order into PW  to open an Order Pad with the Customer\u2019s history with PW Instructions prefilled on the Header .     \uf0b7  The Order Header will open.   \uf0b7  Click Close (F4) on the Header. \uf0b7  The Order Pad will open. \uf0b7  The order tab will state \u201c Order[######] \u201d, where ###### is the customer number.             \uf0b7  To perform a search using: o  New Order from History , start typing a product name. The Order Pad will adjust and display items that are a part of the search term. Then, use the up and down arrow to locate the product and enter \u20181\u2019 for 1 Case or \u2018.1\u2019 for 1 Bottle. Press [ESC] to return to your Order Pad to display all items.               o   New Order , enter a product number and press Enter. Then, enter \u20181\u2019 for 1 Case or \u2018.1\u2019 for 1 Bottle. Repeat.     \uf0b7  Once done with your Order, click Confirm (Ctrl+F7) . \uf0b7  The order tab will state \u201c Order[######] - **Confirmation Mode** \u201d. \uf0b7  The Order Confirmation totals will appear at the bottom of the screen.               \uf0b7  After the order is verified, click Close (F4) .       \uf0b7  Check \u2018Ready to Send\u2019 and Click Yes.        ",
+        "bbox": [
+            0,
+            0,
+            Infinity,
+            Infinity
+        ],
+        "page_num": [
+            2,
+            3
+        ],
+        "images": [
+            "output_images/subsection_3_image1.png",
+            "output_images/subsection_3_image2.png",
+            "output_images/subsection_3_image3.png",
+            "output_images/subsection_3_image4.png",
+            "output_images/subsection_3_image5.png",
+            "output_images/subsection_3_image6.png",
+            "output_images/subsection_3_image7.png",
+            "output_images/subsection_3_image8.png"
+        ]
+    },
+    {
+        "subsection-name": "Sending an Order",
+        "content": "\uf0b7  Click the Communications tab. \uf0b7  Click Send Orders and Files .      \uf0b7  The Ai2 Connection Manager will open to send all \u2018R\u2019 status orders, and close after they\u2019ve been sent. \uf0b7  After a minute, click Communications ->Call Host . \uf0b7  The Ai2 Connection Manager will open to receive any Printbacks, and close after they\u2019ve been received.                ",
+        "bbox": [
+            0,
+            0,
+            308.26416015625,
+            386.9749755859375
+        ],
+        "page_num": [
+            4
+        ],
+        "images": [
+            "output_images/subsection_4_image1.png",
+            "output_images/subsection_4_image2.png"
+        ]
+    },
+    {
+        "subsection-name": "Verifying an Order",
+        "content": "\uf0b7  Click the Work With tab, then click Orders . \uf0b7  Click Order Log .         \uf0b7  The Order Log will open, displaying all orders. \uf0b7  Locate the order that was sent and verify that it has a \u2018P\u2019 in the S/T column. \uf0b7  Highlight the line and click Reports (F2) to view the Printback.    \uf0b7  Click Close (F4) to close the Printback. \uf0b7  Click Close (F4) to close the Order Log.  ",
+        "bbox": [
+            12.239990234375,
+            386.9885559082031,
+            Infinity,
+            Infinity
+        ],
+        "page_num": [
+            4
+        ],
+        "images": [
+            "output_images/subsection_5_image1.png",
+            "output_images/subsection_5_image2.png"
+        ]
+    }
+]
