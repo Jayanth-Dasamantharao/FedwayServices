@@ -91,6 +91,6 @@ if __name__ == '__main__':
                     subsection_found = True
                     st.session_state.messages.append({"role": "assistant", "content": "Done"})
                     break
-                if not subsection_found:
-                    #st.session_state.messages.append({"role": "assistant", "content": "No matching subsection found. Please try again."})
-                    st.write("No matching subsection found. Please try again.")
+            if not subsection_found:
+                st.session_state.messages.append({"role": "assistant", "content": "No matching subsection found. Please try again."})
+                st.write("No matching subsection found. Please try again.")
